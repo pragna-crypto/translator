@@ -11,5 +11,9 @@ step 6: create a django project
     -django-admin startproject translator .
 step 7: run the server
     -python manage.py runserver
-
+step 8: install gunicorn
+    -pip install gunicorn
+step 9: create a wsgi.py file in the translator folder
+    -touch wsgi.py
+step 10: 
 
